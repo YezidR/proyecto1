@@ -1,0 +1,96 @@
+*{
+  margin: 0;
+  padding: 0;
+  block-size: border-box;
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background-color: #6b4e71;
+    color: white;
+    text-align: left;
+}
+.header nav ul{
+    text-align: right;
+}
+.encabezado{
+background-color: #c2b2b4;
+text-align: center;
+color: white;
+padding: 40px;
+}
+.avatar{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    margin: 15px;    
+}
+.estrella{
+    width: 100px;
+
+}
+
+.cuerpo{
+    text-align: center;
+    padding: 40px;
+}
+.pie{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    margin: 15px;
+}
+.batman{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    margin: 15px;
+}
+.super{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    margin: 15px;
+}
+.pet{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    margin: 15px;
+}
+.pizzeria{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    margin: 15px;
+}
+.game{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    margin: 15px;
+}
+.contexto{
+    background-color: #c2b2b4;
+text-align: center;
+color: white;
+padding: 40px;
+}
+h2{
+    padding: 40px;
+}
+.footer{
+    background-color: #2c3e51;
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+
+    
+
+
+
